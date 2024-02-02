@@ -12,13 +12,14 @@
   },
   "author": "Spikey1289",
   "license": "ISC",
-  
   "dependencies": {
     "inquirer": "8.2.4"
   },
   "bugs": {
     "url": "https://github.com/Spikey1289/Logo_Maker-SVG/issues"
   },
-  "homepage": "https://github.com/Spikey1289/Logo_Maker-SVG#readme"
-  
+  "homepage": "https://github.com/Spikey1289/Logo_Maker-SVG#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
