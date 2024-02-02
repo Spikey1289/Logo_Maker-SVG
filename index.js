@@ -5,11 +5,11 @@ const {Rectangle, Circle, Triangle} = require('./lib/shapes');
 
 const messages = {
     introduction: "-Hi! Welcome to Spikey1289's LOGO Maker! Please answer the following questions to generate a logo in a .svg file\n\n-",
-    shapeChoice: "Please choose what shape you want to use (arrow keys to choose)-\n\n",
-    colorChoice: "Please choose a color (you can use words or a hexadecimal number).\n\n",
-    textChoice: "Please enter the letters you wish to display in the logo.\n(PLEASE NOTE that only the first 3 letters entered will be accepted, any additional letters *will not* be displayed!)\n\n",
-    textColorChoice: "Please choose a text color.\n\n",
-    nameFileChoice: "Please enter a File Name.\n\n"
+    shapeChoice: "Please choose what shape you want to use (arrow keys to choose)\n\n",
+    colorChoice: "Please choose a color (you can use words or a hexadecimal number)\n\n",
+    textChoice: "Please enter the letters you wish to display in the logo\n(PLEASE NOTE that only the first 3 letters entered will be accepted, any additional letters *will not* be displayed!)\n\n",
+    textColorChoice: "Please choose a text color\n\n",
+    nameFileChoice: "Please enter a File Name\n\n"
 }
 
 function writeToFile(fileName, data) {
