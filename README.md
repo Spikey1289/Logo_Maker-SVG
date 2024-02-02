@@ -19,4 +19,4 @@ Through this challenge, I was able to learn how to use javascript and node JS to
 - after all prompts are filled in, a SVG file will be generated in the folder named "logos." feel free to open this file in your browser or in a photo editer to view your logo.
 
 ### Link to Video Walkthrough
-[Click me!]()
+[Click me!](https://drive.google.com/file/d/1nD78lh_uT8AqIpM4_hzB6umqrTms7RCW/view?usp=sharing)
