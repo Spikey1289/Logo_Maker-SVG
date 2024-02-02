@@ -39,7 +39,7 @@ function writeToFile(fileName, data) {
         break;
     }
 
-    fs.writeFile(`./examples/${fileName}`, processedInput, (err) =>
+    fs.writeFile(`./logos/${fileName}`, processedInput, (err) =>
         err ? console.log(err) : console.log('Successfully created SVG file')
     );
 }
